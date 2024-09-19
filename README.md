@@ -1,0 +1,1 @@
+Trabalho de gerenciamento de repositórios no GitHub. Foi adicionado um arquivo Ola_Mundo.py e depois foi feito duas alterações juntamente com commit, e logo em seguida a criação de um .gitignore para barra a subida de um arquivo do tipo png
